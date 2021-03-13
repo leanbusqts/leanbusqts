@@ -1,22 +1,25 @@
-## Leandro Busquets - bulean
-### 👋 Hi there
+## 👋 Hi there! My name is Leandro Busquets
 
-<!--
-**leanbusqts/leanbusqts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
 I'm Electronic Engineer and Android Developer.</br>
+I've always been an Android enthusiast, so I enjoy learning about Android and Kotlin. </br>
+Today I´m working with Xamarin.Android.</br>
+#### Find me at
+[![LinkedIn](https://img.shields.io/badge/Leandro_Busquets-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/leandro_busquets)
+[![Web](https://img.shields.io/badge/bulean.dev-0077B5?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://bulean.dev)
+[![GooglePlay](https://img.shields.io/badge/GooglePlay-0077B5?style=for-the-badge&logo=google-play&logoColor=white&labelColor=101010)](https://play.google.com/store/apps/developer?id=bulean)
+</br>
+#### Skills
+![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white&labelColor=101010)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
+</br>
+![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white&labelColor=101010)
+![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?&style=flat&logo=C-sharp&logoColor=white)
+</br>
+#### About me
+
+
+<!--
 I enjoy building things and developing apps.</br>
 [![LinkedIn](https://img.shields.io/badge/Leandro_Busquets-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/leandro_busquets)
 [![Web](https://img.shields.io/badge/bulean.dev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://bulean.dev)
