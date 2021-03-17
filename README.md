@@ -1,8 +1,8 @@
 ## 👋 Hi there! My name is Leandro Busquets
 
-I am an Electronic Engineer and Android Developer.</br>
-I have always been an Android enthusiast, so I enjoy learning about Android and Kotlin. </br>
-Today I am working with Xamarin.Android.</br>
+I'm an Electronic Engineer and Android Developer.</br>
+I've always been an Android enthusiast, so I enjoy learning about Android and Kotlin. </br>
+Today I'm working with Xamarin.Android.</br>
 #### Find me at
 [![LinkedIn](https://img.shields.io/badge/Leandro_Busquets-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/leandro_busquets)
 [![Web](https://img.shields.io/badge/bulean.dev-0077B5?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://bulean.dev)
@@ -14,10 +14,13 @@ Today I am working with Xamarin.Android.</br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
 </br>
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white&labelColor=101010)
+![Xamarin](https://img.shields.io/badge/Xamarin-0095D5?style=flat&logo=xamarin&logoColor=white&labelColor=101010)
 ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?&style=flat&logo=C-sharp&logoColor=white)
 </br>
 #### About me
-
+I've always liked electronics and software development. After studying and working with electronics for more than eight years, I realized that I wanted to grow professionally as an Android Developer. That is why in 2020, I left my job as an Electronic Engineer and started developing apps.</br>
+I currently work in a company, developing mobile applications.</br>
+I enjoy learning new skills and if those skills make me a grow professionally, even better.</br>
 
 <!--
 I enjoy building things and developing apps.</br>
