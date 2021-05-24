@@ -5,7 +5,7 @@ I've always been an Android enthusiast, so I enjoy learning about Android and Ko
 Today I'm working with Xamarin.Android.</br>
 #### Find me at
 [![LinkedIn](https://img.shields.io/badge/Leandro_Busquets-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/leandro_busquets)
-[![Web](https://img.shields.io/badge/bulean.dev-0077B5?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://bulean.dev)
+[![Web](https://img.shields.io/badge/bulean.dev-0077B5?style=for-the-badge&logo=dev-dot-to&logoColor=white&labelColor=101010)](https://bulean.dev)
 [![GooglePlay](https://img.shields.io/badge/GooglePlay-0077B5?style=for-the-badge&logo=google-play&logoColor=white&labelColor=101010)](https://play.google.com/store/apps/developer?id=bulean)
 </br>
 #### Skills
@@ -24,6 +24,10 @@ I enjoy learning new skills and if those skills make me a grow professionally, e
 
 <!--
 I enjoy building things and developing apps.</br>
+source -> https://shields.io/
+badges for github -> https://simpleicons.org/ and https://dev.to/envoy_/150-badges-for-github-pnk
+
+
 [![LinkedIn](https://img.shields.io/badge/Leandro_Busquets-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/leandro_busquets)
 [![Web](https://img.shields.io/badge/bulean.dev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://bulean.dev)
 [![GooglePlay](https://img.shields.io/badge/GooglePlay-14a1f0?style=for-the-badge&logo=google-play&logoColor=white&labelColor=101010)](https://bulean.dev)
