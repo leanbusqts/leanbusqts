@@ -4,9 +4,9 @@ I'm an Android Developer and Electronic Engineer.</br>
 I've always been an Android enthusiast, so I enjoy learning about Android and Kotlin. </br>
 I've programmed Android in Kotlin, Java and Xamarin.Android.</br>
 #### Find me at
-[![LinkedIn](https://img.shields.io/badge/Leandro_Busquets-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/leandro_busquets)
-[![Web](https://img.shields.io/badge/bulean.dev-0077B5?style=for-the-badge&logo=dev-dot-to&logoColor=white&labelColor=101010)](https://bulean.dev)
-[![GooglePlay](https://img.shields.io/badge/GooglePlay-0077B5?style=for-the-badge&logo=google-play&logoColor=white&labelColor=101010)](https://play.google.com/store/apps/developer?id=bulean)
+[![LinkedIn](https://img.shields.io/badge/Leandro_Busquets-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro_busquets)
+[![Web](https://img.shields.io/badge/bulean.dev-0077B5?style=for-the-badge&logo=dev.to&logoColor=white)](https://bulean.dev)
+[![GooglePlay](https://img.shields.io/badge/Google_Play-0077B5?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=bulean)
 </br>
 #### Skills
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white&labelColor=101010)
@@ -29,8 +29,11 @@ badges for github -> https://simpleicons.org/ and https://dev.to/envoy_/150-badg
 
 
 [![LinkedIn](https://img.shields.io/badge/Leandro_Busquets-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/leandro_busquets)
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [![Web](https://img.shields.io/badge/bulean.dev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://bulean.dev)
+https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white
 [![GooglePlay](https://img.shields.io/badge/GooglePlay-14a1f0?style=for-the-badge&logo=google-play&logoColor=white&labelColor=101010)](https://bulean.dev)
+https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white&labelColor=101010)
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white&labelColor=101010)
 ![IntelliIJDEA](https://img.shields.io/badge/Intellij_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white&labelColor=101010)
