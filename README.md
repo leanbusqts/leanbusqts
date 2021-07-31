@@ -1,8 +1,8 @@
 ## 👋 Hi there! My name is Leandro Busquets
 
-I'm an Electronic Engineer and Android Developer.</br>
+I'm an Android Developer and Electronic Engineer.</br>
 I've always been an Android enthusiast, so I enjoy learning about Android and Kotlin. </br>
-Today I'm working with Xamarin.Android.</br>
+I've programmed Android in Kotlin, Java and Xamarin.Android.</br>
 #### Find me at
 [![LinkedIn](https://img.shields.io/badge/Leandro_Busquets-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/leandro_busquets)
 [![Web](https://img.shields.io/badge/bulean.dev-0077B5?style=for-the-badge&logo=dev-dot-to&logoColor=white&labelColor=101010)](https://bulean.dev)
